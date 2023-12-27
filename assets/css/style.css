@@ -954,6 +954,16 @@ section {
   transition: 0.5s;
   background-image: url('assets/img/speakers/profile.png');
 }
+.image_aligh{
+  display: flex;
+  justify-content: center;
+}
+.img-fluid1{
+ max-width: 100%;
+ height: auto;
+ padding: 10px;
+
+}
 
 .speakers .title {
   font-weight: 700;
